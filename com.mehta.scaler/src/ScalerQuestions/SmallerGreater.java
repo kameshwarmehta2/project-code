@@ -1,7 +1,7 @@
-package Test;
+package ScalerQuestions;
 import java.util.Arrays;
 
-public class Test {
+public class SmallerGreater {
     public int solve(int[] A) {
      Arrays.sort(A);
      int max=A[A.length-1];
